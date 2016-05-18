@@ -1,5 +1,9 @@
 # Change Log
 
+## Konnektid Fork
+
+* Passing down all http options from constructor to fetch
+
 ## v1.3.2
 
 * Some code cleanup and potentially fix: [#3](https://github.com/kadirahq/lokka-transport-http/issues/3)
